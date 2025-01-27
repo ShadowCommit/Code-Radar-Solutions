@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    int x;
-    scanf("%d",&x);
-    if(x>=90){
+    int a;
+    scanf("%d",&a);
+    if(a>=90){
         printf("A%c");
     }
     else if(a>=80 && a<90){
