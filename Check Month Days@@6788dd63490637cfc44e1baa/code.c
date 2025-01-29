@@ -3,7 +3,7 @@ int main(){
     int a;
     scanf("%d",&a);
     switch(a){
-        case 1 :
+        case 1:
             printf("31");
             break;
         case 2:
@@ -40,7 +40,7 @@ int main(){
             printf("31");
             break;
         default:
-            printf("Invalid")
+            printf("Invalid");
             break;
 
     }
