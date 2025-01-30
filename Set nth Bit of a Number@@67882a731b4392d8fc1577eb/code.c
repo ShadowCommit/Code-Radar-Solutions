@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() {
-    int a, b;
+    int a, b,x;
     printf("%d",&a,&b);
-    printf("%d", (1<<b)|a);
+    x=(1<<b) | a ;
+    printf("%d",x);
     return 0;
 }
