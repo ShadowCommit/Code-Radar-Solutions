@@ -2,9 +2,10 @@
 int main() {
     int a,i;
     scanf("%d",&a);
-    for(i=0;(a&1)!=1 && (a!=0),i++){
-        n<<=1;
+    while(a!=0){
+        i++;
+        a>>=1;
     }
-    printf("%d",(i+1));
+    printf("%d",32-i);
     return 0;
 }
