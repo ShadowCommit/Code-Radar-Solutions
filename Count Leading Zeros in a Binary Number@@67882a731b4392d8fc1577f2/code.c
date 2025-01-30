@@ -2,7 +2,7 @@
 int main() {
     int a,count;
     scanf("%d",&a);
-    count=32;
+    count=0;
     while(a^(0<<32)==1){
         count++;
         a<<=1;
