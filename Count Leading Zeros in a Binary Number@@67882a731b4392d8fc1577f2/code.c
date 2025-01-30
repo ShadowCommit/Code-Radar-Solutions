@@ -5,7 +5,7 @@ int main() {
     count=0;
     while(a^(0<<32)==1){
         count--;
-        a<<=1;
+
     }
     printf("%d",count);
     return 0;
