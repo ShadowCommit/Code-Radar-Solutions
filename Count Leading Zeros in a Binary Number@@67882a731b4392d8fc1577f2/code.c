@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() {
-    int a,count;
-    scanf("%d",&a);
+    unsigned a
+    int count;
+    scanf("%u",&a);
     count=0;
     while(a!=0){
         count++;
