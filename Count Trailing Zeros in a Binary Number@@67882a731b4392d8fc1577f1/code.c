@@ -8,6 +8,6 @@ int mian(){
         a<<=1;
 
     }
-    printf("%d",a-32)
+    printf("%d",count-32)
     return 0;
 }
