@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    unsigned a
+    unsigned a;
     int count;
     scanf("%u",&a);
     count=0;
