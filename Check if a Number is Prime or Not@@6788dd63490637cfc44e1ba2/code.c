@@ -2,8 +2,8 @@
 int main(){
     int a;
     scanf("%d",&a);
-    if(a==1){
-        printf("Prime")
+    if(a<2){
+        printf("Not Prime")
     }
     else if{ 
         for(i=2;i*i<=n'i++'){
